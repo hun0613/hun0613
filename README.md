@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=70&fontAlignY=43&fontAlign=51)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun0613&show_icons=true&theme=radical)
 
 <!--
