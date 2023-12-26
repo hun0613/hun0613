@@ -20,8 +20,7 @@ I'm enjoying a new Challenge, and I'm interested in offering best of UX to Users
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> \
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=aws&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun0613&show_icons=true&theme=radical)
-</div>
+
 <!--
 **hun0613/hun0613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
