@@ -6,7 +6,7 @@
 
 
 제 이름은 박성훈이고 프론트엔드를 공부하고 있습니다! \
-항상 새로운 도전을 즐기며, 사용자에게 최고의 UX를 제공하는 것에 관심이 많습니다
+항상 새로운 도전을 즐기며, 사용자에게 최고의 UX를 제공하는 것에 관심이 많습니다!
 
 My name is seonghun Park, and I'm studying Frontend Technology. \
 I'm enjoying a new Challenge, and I'm interested in offering best of UX to Users!
